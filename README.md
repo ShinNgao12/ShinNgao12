@@ -1,7 +1,7 @@
 ### Hi 👋 , I'm Nguyen Phu Thu
 
 - 🌱 Now, I'm a Senior at Ho Chi Minh University of Science
-- 👯 I'm interested in Data Science and I try to develope myself in order to become a Senior Data Science in future.
+- 👯 I'm interested in Data Science and I try to develope myself in order to become a Senior Data Science in the future.
 
 
 ### Connect with me via:
